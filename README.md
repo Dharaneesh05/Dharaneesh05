@@ -5,8 +5,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,py,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,tensorflow)](https://skillicons.dev)
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,py,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,tensorflow" />
+  </a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dharaneesh05&show_icons=true&locale=en" alt="dharaneesh05" /></p>
