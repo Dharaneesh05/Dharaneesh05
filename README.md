@@ -1,7 +1,7 @@
 <h1 align="center">I'm Dharaneesh C</h1>
 <h3 align="center">Focused on creating impactful applications and learning modern technologies.</h3>
 
-📫 How to reach me **cdharaneesh05@gmail.com**
+📫 **cdharaneesh05@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -48,10 +48,6 @@
 
   <a href="https://redis.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" style="margin: 10px;" />
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" style="margin: 10px;" />
   </a>
 
   <a href="https://www.tensorflow.org" target="_blank">
