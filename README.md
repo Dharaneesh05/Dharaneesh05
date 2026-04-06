@@ -13,6 +13,16 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="mailto:cdharaneesh05@gmail.com" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/dharaneesh-c" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -21,15 +31,3 @@
     <img src="https://skillicons.dev/icons?i=java,js,py,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,tensorflow&theme=light" />
   </a>
 </p>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Dharaneesh05&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Dharaneesh05&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharaneesh05&show_icons=true" />
-</picture>
