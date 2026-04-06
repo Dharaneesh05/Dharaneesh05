@@ -1,5 +1,5 @@
 <h1 align="center">I'm Dharaneesh C</h1>
-<h3 align="center">Full Stack Developer and AI enthusiast focused on building modern web experiences with purpose and precision.</h3>
+<h3 align="left">Full Stack Developer and AI enthusiast focused on building modern web experiences with purpose and precision.</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
