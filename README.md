@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/dharaneesh-c">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
+  
   <a href="mailto:cdharaneesh05@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
