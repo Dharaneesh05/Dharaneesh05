@@ -2,12 +2,14 @@
 <h3 align="center">Focused on creating impactful applications and learning modern technologies.</h3>
 
 <p align="center">
+  <a href="https://skillicons.dev">
   <a href="https://www.linkedin.com/in/dharaneesh-c">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
   
   <a href="mailto:cdharaneesh05@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
   </a>
 </p>
 
