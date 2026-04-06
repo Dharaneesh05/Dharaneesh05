@@ -21,3 +21,5 @@
     <img src="https://skillicons.dev/icons?i=java,js,py,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,tensorflow&theme=light" />
   </a>
 </p>
+
+![Dharaneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharaneesh05&show_icons=true&theme=radical)
