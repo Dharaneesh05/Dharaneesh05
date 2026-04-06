@@ -1,7 +1,11 @@
 <h1 align="center">I'm Dharaneesh C</h1>
 <h3 align="center">Focused on creating impactful applications and learning modern technologies.</h3>
 
-📫 **cdharaneesh05@gmail.com**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin&theme=light" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
