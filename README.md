@@ -2,7 +2,7 @@
 <h3 align="center">Focused on creating impactful applications and learning modern technologies.</h3>
 
 📫 **cdharaneesh05@gmail.com**
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
