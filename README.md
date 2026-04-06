@@ -3,7 +3,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dharaneesh-c">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:cdharaneesh05@gmail.com">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
 </p>
 
