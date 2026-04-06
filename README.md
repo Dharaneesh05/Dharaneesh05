@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="mailto:cdharaneesh05@gmail.com">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
 </p>
 
