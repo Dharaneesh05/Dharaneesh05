@@ -1,7 +1,7 @@
 <h1 align="center">I'm Dharaneesh C</h1>
 <h3 align="left">Full Stack Developer and AI enthusiast focused on building modern web experiences with purpose and precision, solving real-world problems.</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
   <a href="mailto:cdharaneesh05@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
@@ -16,8 +16,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,py,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,tensorflow&theme=light" />
   </a>
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharaneesh05&show_icons=true&theme=transparent)
