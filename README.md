@@ -1,4 +1,3 @@
-<h1 align="center">I'm Dharaneesh C</h1>
 <h3 align="left">Full Stack Developer and AI enthusiast focused on building modern web experiences with purpose and precision, solving real-world problems.</h3>
 
 <p align="left">
