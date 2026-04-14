@@ -1,4 +1,4 @@
-<h3 align="left">Full Stack Developer and AI enthusiast focused on building modern web experiences with purpose and precision, solving real-world problems.</h3>
+<h2 align="left">Full Stack Developer and AI enthusiast focused on building modern web experiences with purpose and precision, solving real-world problems.</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
