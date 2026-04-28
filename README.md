@@ -1,6 +1,6 @@
 <h2 align="left">Full Stack Developer and AI enthusiast focused on building modern web experiences with purpose and precision, solving real-world problems.</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
   <a href="mailto:cdharaneesh05@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,py,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,tensorflow&theme=light" />
   </a>
